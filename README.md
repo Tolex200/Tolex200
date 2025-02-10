@@ -1,5 +1,5 @@
 
-## - 🔭 I’m Toluwanimi Ayomide Oyewale
+- 🔭 I’m Toluwanimi Ayomide Oyewale
 - 🌱 I’m currently learning backend development
 - 🤔 I’m looking for help with resources and network that can help me grow in this field
 - 💬 Ask me about ...
